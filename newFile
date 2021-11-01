@@ -1,0 +1,6 @@
+Software developers working in teams are continually writing new source 
+code and changing existing source code. The code for a project, app or 
+software component is typically organized in a folder structure or 
+"file tree". One developer on the team may be working on 
+a new feature while another developer fixes an unrelated bug by changing
+code, each developer may make their changes in several parts of the file tree.
